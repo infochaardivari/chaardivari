@@ -35,7 +35,7 @@ class Header extends Component {
                 height="40px"
                 className="mr-2"
               />
-              {siteTitle}
+              {/* {siteTitle} */}
             </Link>
             <NavbarToggler onClick={this.toggle} />
             <Collapse isOpen={this.state.isOpen} navbar>
