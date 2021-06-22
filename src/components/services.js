@@ -13,12 +13,12 @@ const Services = () => {
     {
       title: `Construction`,
       icon: Bulldozer,
-      description: `We provide high-quality construction services to the energy, water and telecommunications markets.`,
+      description: `We provide high-quality construction services to the hospitality, healthcare and residential socities.`,
     },
     {
       title: `Remodeling`,
       icon: Tassels,
-      description: `Our team of experts has years of experience in remodeling homes including kitchens, basements etc.`,
+      description: `Our team of experts has years of experience in remodeling homes, offices, basements etc.`,
     },
     {
       title: `Interior Design`,
