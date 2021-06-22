@@ -119,7 +119,7 @@
     "sizing": "5200 SqFt",
     "owner": "G.P Sharma",
     "address": "Narayan Vihar, Masarovar, Jaipur (Rajasthan)",
-    "featured": true
+    "featured": false
   },
   {
     "title": "Haandi",
@@ -173,7 +173,7 @@
     "sizing": "4000 SqFt",
     "owner": "Mr. Aayush Nanda",
     "address": "Bhopal",
-    "featured": true
+    "featured": false
   },
   {
     "title": "JK Lakshmipat University",
@@ -196,7 +196,7 @@
     "sizing": "1800 SqFt",
     "owner": "JK Lakshmipat University Campus",
     "address": "Mahindra Sez, Jaipur (Rajasthan)",
-    "featured": true
+    "featured": false
   },
   {
     "title": "Oswal Bungalow",
@@ -217,7 +217,7 @@
     "sizing": "12000 SqFt",
     "owner": "Mr. Dhruv Jain & Aditya Jain",
     "address": "Rajapark Jaipur Rajasthan",
-    "featured": true
+    "featured": false
   },
   {
     "title": "Oswal Farmhouse",
@@ -240,7 +240,7 @@
     "sizing": "20000 SqFt",
     "owner": "Mr. Dhruv Jain",
     "address": "Ring Road, Jaipur, (Rajasthan)",
-    "featured": true
+    "featured": false
   },
   {
     "title": "Resort Avinas Nagori",
@@ -261,7 +261,7 @@
     "sizing": "1 Acre",
     "owner": "Mr.Avinash Nagori",
     "address": "Ajmer Road, Jaipur (Rajasthan)",
-    "featured": true
+    "featured": false
   },
   {
     "title": "Sukhija Villa's",
