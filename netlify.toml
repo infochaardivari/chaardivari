@@ -1,0 +1,17 @@
+[build]
+  command = """
+    rm -rf node_modules yarn.lock &&
+    yarn cache clean &&
+    yarn install &&
+    yarn build
+  """
+  publish = "public"
+
+[build.environment]
+  NODE_OPTIONS = "--openssl-legacy-provider"
+
+# Prevent any unwanted redirects
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
